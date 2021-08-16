@@ -1,5 +1,5 @@
 ### Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-[Visitors](https://visitor-badge.glitch.me/badge?page_id=dangerousmonk)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangerousmonk)
 <br />
 
 My name is Oleg, I'm 28 years old and I've been learning backend development for nearly 1.5 years. My main goal is always move forward and develop new products,for people - to simplify their lives and help solve problems. With patience and passion.
