@@ -5,7 +5,7 @@
 My name is Oleg, I'm 28 years old and I've been learning backend development for nearly 1.5 years. My main goal is always move forward and develop new products,for people - to simplify their lives and help solve problems. With patience and passion.
 
 - 👨‍💻 I’m currently learning data structures and asyncio
-- 🤓 I've recently finished Yandex.Praktikum Backend Developer course
+- 🤓 I've recently graduated from Yandex.Praktikum
 - 🥅 2021 Goal: Learn asyncio and dive deeper into DS
 - 🎸 About me: I play guitar/drums and skate on my longboard
 
